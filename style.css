@@ -1,0 +1,70 @@
+h1{
+    font-family: "oswald";
+    text-align: center;
+    font-size: 50px;
+}
+
+body{
+    background-color: bisque;
+}
+
+p{
+    font-family: "instrument serif";
+    text-align: center;
+    font-size: 30px;
+}
+
+.navbar{
+    font-family: "oswald";
+    font-size: 20px;
+    background-color: blanchedalmond;
+}
+
+#navbot{
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#barimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cin{
+    margin-left: 60px;
+}
+
+.new{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+#navtop{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 45px;
+}
+
+#esp{
+    margin-left: 80px;
+}
+
+.image{
+    padding: 10px;
+}
+
+table, th, td {
+    font-family: "instrument serif";
+    text-align: center;
+    border: 3px solid;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
